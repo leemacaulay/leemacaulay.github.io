@@ -1,0 +1,248 @@
+{
+  "name": "Lee Macaulay",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Broadcast Journalist (Newsroom)",
+        "employer": "BBC Radio Cumbria",
+        "summary": "Reporter, producer and newsreader on the BBC's local radio station for Cumbria which reaches around one in three adults a week.",
+        "current": true,
+        "start": "2015-09-01",
+        "url": "http://www.bbc.co.uk/radiocumbria",
+        "keywords": [],
+        "highlights": [
+          "Produced Mike Zeller at Breakfast outside broadcast from Grasmere for the reopening of the A591 following damage from Storm Desmond.",
+          "Reported for BBC Radio 4, BBC Radio Wales and BBC Tees during the 2015 Cumbrian floods.",
+          "Regularly read bulletins, produce breakfast programmes, report live and write for news blog BBC Cumbria Live.",
+          "Produced two separate week-long programme strands."
+        ]
+      },
+      {
+        "position": "Multimedia News and Sport Reporter",
+        "employer": "CFM Radio",
+        "summary": "Gathered audio and wrote copy for hourly bulletins on Bauer Radio's commercial radio station broadcasting to North and West Cumbria. Updated social media and wrote news articles for the web.",
+        "start": "2014-10-30",
+        "end": "2015-08-31",
+        "url": "http://www.cfmradio.co.uk",
+        "keywords": [],
+        "highlights": [
+          "Reported from the Morecambe Bay inquiry report event for the Bauer City Network",
+          "Reported from the 2015 General Election for the Bauer City Network"
+        ]
+      },
+      {
+        "position": "Freelance Multimedia Reporter",
+        "employer": "Metro Radio and TFM",
+        "summary": "Gathered audio and wrote copy for hourly bulletins on Bauer Radio's commercial radio stations for the North East. Updated social media and wrote news articles for the web.",
+        "start": "2014-07-07",
+        "end": "2014-09-26",
+        "url": "http://www.metroradio.co.uk",
+        "keywords": []
+      },
+      {
+        "position": "Freelance Multimedia Reporter",
+        "employer": "Rock FM",
+        "start": "2014-05-21",
+        "end": "2014-06-03",
+        "url": "http://www.rockfm.co.uk",
+        "keywords": []
+      },
+      {
+        "position": "Work Experience",
+        "employer": "ITV Border",
+        "start": "2014-05-12",
+        "end": "2014-05-16",
+        "url": "http://www.itv.co.uk/border",
+        "keywords": [],
+        "highlights": [
+          "Produced and edited a package for weekend bulletins",
+          "Wrote and cut video for breakfast bulletins"
+        ]
+      },
+      {
+        "position": "Radio Festival Radio",
+        "employer": "The Radio Academy",
+        "summary": "Worked with a team of young broadcasters to make radio from, and about, the UK radio industry’s biggest event. Edited, co-produced and co-presented daily podcasts and produced a package about future user interfaces in radio.",
+        "start": "2013-10-13",
+        "end": "2013-10-16",
+        "url": "https://www.radioacademy.org/",
+        "keywords": []
+      },
+      {
+        "position": "Casual Broadcast Assistant",
+        "employer": "BBC Radio Cumbria",
+        "summary": "Provided on-air production and phone support for weekend and weekday programmes.",
+        "start": "2013-04-01",
+        "end": "2014-06-01",
+        "url": "http://www.bbc.co.uk/radiocumbria",
+        "keywords": []
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "University of Central Lancashire",
+        "start": "2013-09-01",
+        "end": "2014-05-01",
+        "curriculum": [
+          "Digital Journalism",
+          "Media Law",
+          "Public Affairs"
+        ],
+        "summary": "",
+        "area": "Broadcast Journalism",
+        "studyType": "PGDip"
+      },
+      {
+        "institution": "Cardiff University",
+        "start": "2006-09-01",
+        "end": "2009-08-01",
+        "summary": "",
+        "area": "Journalism, Film and Media",
+        "studyType": "BA (Hons)"
+      },
+      {
+        "institution": "Kirkbie Kendal School",
+        "start": "1999-09-01",
+        "end": "2006-04-01",
+        "curriculum": [
+          "A Level Sociology",
+          "A Level Business Studies",
+          "A Level Religious Studies (Philosophy & Ethics)",
+          "10.5 GCSEs (A*–C)"
+        ],
+        "summary": "",
+        "area": "Various Subjects",
+        "studyType": "GCSEs & A Levels"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Radio Reporter",
+        "level": "Advanced",
+        "skills": [
+          "Field Recording",
+          "Adobe Audition",
+          "Quick Edit Pro"
+        ]
+      },
+      {
+        "name": "Radio Broadcaster",
+        "level": "Intermediate",
+        "skills": [
+          "Live Reporting",
+          "News Reading",
+          "Desk Driving",
+          "Radioman"
+        ]
+      },
+      {
+        "name": "Radio Producer",
+        "level": "Intermediate",
+        "skills": [
+          "ENPS",
+          "Subediting",
+          "Reporter deployments",
+          "Newsgathering",
+          "Creative treatments"
+        ]
+      },
+      {
+        "name": "Digital Production",
+        "level": "Advanced",
+        "skills": [
+          "Tweetdeck",
+          "Mobile Video shooting",
+          "Splice iOS",
+          "PNg",
+          "BBC CPS and Vivo"
+        ]
+      },
+      {
+        "name": "Web and Computer",
+        "level": "Advanced",
+        "skills": [
+          "HTML/CSS",
+          "Linux/Ubuntu",
+          "Wordpress",
+          "Server Admin"
+        ]
+      },
+      {
+        "name": "Miscellaneous",
+        "level": "Master",
+        "skills": [
+          "Full clean UK driving license",
+          "BBC mandatory training"
+        ]
+      }
+    ]
+  },
+  "recognition": [
+    {
+      "title": "Bronze, Best Journalistic Programming",
+      "date": "2007-11-15",
+      "from": "Student Radio Awards",
+      "summary": "as part of the Xpress Radio News Team"
+    },
+    {
+      "title": "Best Mainstream Show",
+      "date": "2007-05-11",
+      "from": "Cardiff Student Media Awards"
+    },
+    {
+      "title": "Best News Reporter",
+      "date": "2007-05-11",
+      "from": "Cardiff Student Media Awards",
+      "summary": "judged by Jon Snow, Channel 4 News"
+    }
+  ],
+  "social": [
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "https://www.twitter.com/lmcly",
+      "user": "lmcly"
+    },
+    {
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "url": "http://www.linkedin.com/in/leemacaulay",
+      "user": "leemacaulay"
+    }
+  ],
+  "interests": [
+    {
+      "name": "reading",
+      "keywords": [
+        "non-fiction",
+        "Margaret Atwood",
+        "Bryan-Lee O'Malley"
+      ]
+    },
+    {
+      "name": "walking",
+      "keywords": [
+        "novice hillwalker",
+        "One Wainwright summit"
+      ]
+    },
+    {
+      "name": "technology",
+      "keywords": [
+        "Pebble Smartwatch",
+        "iOS",
+        "Xbox One"
+      ]
+    }
+  ]
+}
