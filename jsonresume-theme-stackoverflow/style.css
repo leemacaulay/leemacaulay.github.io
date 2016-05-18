@@ -622,7 +622,11 @@ ul.courses li:hover {
         content: "Skills acquired: ";
     }
 
-   #interests #skills .keywords::before {
+    #skills .keywords::before {
+        content: '';
+    }
+    
+    #interests .keywords::before {
         content: '';
     }
 
