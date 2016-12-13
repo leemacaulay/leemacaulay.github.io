@@ -20,6 +20,13 @@
   },
   "work": [
     {
+      "company": "BBC World Service",
+      "website": "http://www.bbc.co.uk/minute",
+      "position": "Casual Broadcast Journalist, BBC Minute",
+      "startDate": "2016-09-01",
+      "summary": "Broadcast journalist on a radio news service updated every half hour for commercial radio listeners around the world"
+    },
+    {
       "company": "BBC Radio Cumbria",
       "website": "http://www.bbc.co.uk/radiocumbria",
       "position": "Broadcast Journalist (Newsroom)",
@@ -77,14 +84,6 @@
       "startDate": "2013-10-13",
       "endDate": "2013-10-16",
       "summary": "Worked with a team of young broadcasters to make radio from, and about, the UK radio industry’s biggest event. Edited, co-produced and co-presented daily podcasts and produced a package about future user interfaces in radio."
-    },
-    {
-      "company": "BBC Radio Cumbria",
-      "website": "http://www.bbc.co.uk/radiocumbria",
-      "position": "Casual Broadcast Assistant",
-      "startDate": "2013-04-01",
-      "endDate": "2014-06-01",
-      "summary": "Provided on-air production and phone support for weekend and weekday programmes."
     }
   ],
   "education": [
