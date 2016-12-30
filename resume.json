@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Lee Macaulay",
-    "label": "Broadcast Journalist",
-    "summary": "Broadcast and multimedia journalist with 2+ years experience working in professional newsrooms at both the BBC and in commercial radio stations. Originally from Kendal, Cumbria, I've worked as a journalist across the North East, Cumbria and Lancashire.",
+    "label": "Multimedia broadcast Journalist",
+    "summary": "Broadcast and multimedia journalist with nearly three years of experience working in professional newsrooms for the BBC and commercial radio. Originally from Kendal, Cumbria, I've worked as a journalist across the North East, Cumbria and Lancashire.",
     "website": "http://leemacaulay.co.uk",
     "email": "hello@leemacaulay.co.uk",
     "profiles": [
@@ -122,22 +122,25 @@
   ],
   "skills": [
     {
-      "name": "Radio Reporter",
+      "name": "Reporting",
       "level": "Advanced",
       "keywords": [
         "Field Recording",
+        "Live Streaming and Social Video",
+        "Dira! Startrack and Orion",
         "Adobe Audition",
         "Quick Edit Pro"
       ]
     },
 
     {
-      "name": "Radio Broadcaster",
+      "name": "Broadcasting",
       "level": "Intermediate",
       "keywords": [
         "Live Reporting",
         "News Reading",
         "Desk Driving",
+        "Dira! and BBC Vilor",
         "Radioman"
 
       ]
@@ -159,8 +162,8 @@
       "name": "Digital Production",
       "level": "Advanced",
       "keywords": [
-        "Tweetdeck",
-        "Mobile Video shooting",
+        "Live Blogging",
+        "Social Media curation",
         "Splice iOS",
         "PNg",
         "BBC CPS and Vivo"
