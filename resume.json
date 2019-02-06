@@ -2,8 +2,8 @@
   "basics": {
     "name": "Lee Macaulay",
     "label": "Multimedia journalist",
-    "summary": "Multimedia journalist with more than four years experience working in professional newsrooms for the BBC and commercial radio. Originally from Kendal, Cumbria, I've worked as a journalist across the North East, Cumbria and Lancashire.",
-    "website": "http://leemacaulay.co.uk",
+    "summary": "Multimedia journalist with nearly five years experience working in professional newsrooms for the BBC and commercial radio. Originally from Kendal, Cumbria, I've worked as a journalist across the North East, Cumbria and Lancashire.",
+    "website": "https://lmcly.fyi",
     "email": "lee@mixmultiply.com",
     "profiles": [
       {
@@ -26,10 +26,10 @@
       "startDate": "2015-09-01",
       "summary": "Reporter, producer and newsreader on the BBC's local radio station for Cumbria which reaches around one in three adults a week.",
       "highlights": [
-        "Led overnight social media output for General Election 2017 with 200k impressions on Twitter and 89k reach on Facebook.",
-        "Produced two hour-long holding-to-account interview with Cumbria's Police and Crime Commissioner and healthcare leaders.",
-        "Reported for BBC Radio 4, BBC Radio Wales and BBC Tees during the 2015 Cumbrian floods and for BBC Radio 5 Live Breakfast on Sellafield chemical disposal in 2017.",
-        "Regularly read bulletins, produce breakfast programmes, report live and write for news blog BBC Cumbria Live."
+        "Regularly read bulletins, produce breakfast programmes, report live and write for the rolling news service BBC Cumbria Live.",
+        "Helped BBC Radio Cumbria lead regional and national coverage of the closure of the Lakes Line in 2018.",
+        "Produced digital videos for BBC Cumbria's social media platforms.",
+        "Reported for BBC Radio 4, BBC Radio Wales and BBC Tees during the 2015 Cumbrian floods and for BBC Radio 5 Live Breakfast on Sellafield chemical disposal in 2017."
       ]
     },
     {
@@ -37,7 +37,7 @@
       "website": "http://www.bbc.com/minute",
       "position": "Casual Broadcast Journalist, BBC Minute",
       "startDate": "2016-09-01",
-      "summary": "Broadcast journalist on a radio news service updated every half hour for commercial radio listeners around the world"
+      "summary": "Wrote, produced and recorded news summaries every half hour which are aimed at young commercial radio listeners around the world."
     },
     {
       "company": "CFM Radio",
@@ -47,8 +47,8 @@
       "endDate": "2015-08-31",
       "summary": "Gathered audio and wrote copy for hourly bulletins on Bauer Radio's commercial radio station broadcasting to North and West Cumbria. Updated social media and wrote news articles for the web.",
       "highlights": [
-        "Reported from the Morecambe Bay inquiry report event for the Bauer City Network",
-        "Reported from the 2015 General Election for the Bauer City Network"
+        "Reported from the Morecambe Bay inquiry report event for the Bauer City Network.",
+        "Reported from the 2015 General Election for the Bauer City Network."
       ]
     },
     {
@@ -145,11 +145,12 @@
     {
       "name": "Data",
       "keywords": [
+        "R and RStudio",
+        "dplyr and ggplot2",
         "Microsoft Excel",
         "Google Sheets",
         "Scraping websites",
-        "Open data",
-        "Currently learning: R"
+        "Open data"
       ]
     }
   ],
@@ -177,30 +178,29 @@
       "name": "travel",
       "keywords": [
         "Recent",
+        "Berlin, Germany (to see Bloc Party!)",
         "Abu Dhabi, United Arab Emirates",
         "Stockholm, Sweden",
-        "Santa Cruz de Tenerife",
-        "Reykjavik, Iceland"
+        "Santa Cruz de Tenerife"
       ]
     },
     {
       "name": "reading",
       "keywords": [
-        "Recent",
-        "Bad Blood by John Carreyrou",
-        "Snotgirl Vol 2",
-        "Nemesis Games by James S.A. Corey"
+        "Recently read",
+        "The Wicked and the Divine: Vol 7",
+        "Slow Burn City by Rowan Moore",
+        "Hatching Twitter by Nick Bilton"
       ]
     },
     {
-      "name": "technology",
+      "name": "video games",
       "keywords": [
         "Recent games",
+        "Red Dead Redemption 2",
+        "Super Smash Bros. Ultimate",
         "Celeste",
-        "Breath of the Wild",
-        "Recent tech",
-        "Chromebook",
-        "Zhiyun gimbal"
+        "Breath of the Wild"
       ]
     }
   ]
